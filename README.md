@@ -1,7 +1,7 @@
-### Hi there 👋
-
+### Hola, mi nombre es Diego 👋
+![https://github.com/LooreDev](https://raw.githubusercontent.com/LooreDev/LooreDev/master/background.jpg)
 <!--
-**DiegoLoorenzo/diegoloorenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LooreDev/looredev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
